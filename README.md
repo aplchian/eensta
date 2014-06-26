@@ -28,14 +28,14 @@ $("eensta-feed").eensta(
 
 ## Settings
 
-#### username : "your_instagram_username"
+#### username
 No need to explain anything. Just use your Instagram username
 
-#### client_id : "you_client_id"
+#### client_id
 You need to create an [Instagram application](http://instagram.com/developer/#) and grab the client ID.
 
-#### how_many : 5
+#### how_many
 **Default: 5**. The number of images that you want to display on your website
 
-#### linkable : true
+#### linkable
 **Default: true**. Disable linking to your images by setting this to false
