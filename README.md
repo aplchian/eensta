@@ -2,12 +2,10 @@
 
 Eensta is a tiny jQuery plugin that let's you fetch & display images from your Instagram account.
 
-## Instructions
-
-
 ## Demo
 http://theportraitofageek.com/eensta/
 
+## Instructions
 
 Add jQuery and the plugin in your page
 ```
