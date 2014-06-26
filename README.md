@@ -44,4 +44,4 @@ You need to create an [Instagram application](http://instagram.com/developer/#) 
 **Default: true**. Disable linking to your images by setting this to false
 
 ## Notes
-Eensta won't load any inline styles or CSS files and will just produce a plain UL with your Instagram images.
+Eensta won't load any inline styles or CSS files and will just produce a plain UL containing your Instagram images. It's your responsibility to style the list :)
