@@ -4,6 +4,11 @@ Eensta is a tiny jQuery plugin that let's you fetch & display images from your I
 
 ## Instructions
 
+
+## Demo
+http://theportraitofageek.com/eensta/
+
+
 Add jQuery and the plugin in your page
 ```
 <script src="jquery.js"></script>
