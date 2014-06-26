@@ -4,7 +4,7 @@ Eensta is a tiny jQuery plugin that let's you fetch & display images from your I
 
 ## Instructions
 
-Add jQuery and the plugin on a page
+Add jQuery and the plugin in your page
 ```
 <script src="jquery.js"></script>
 <script src="jquery.eensta.js"></script>
@@ -18,7 +18,7 @@ Add a UL tag somewhere in your page (You can set your own ID or Class)
 Initialize it like this
 ```
 <script>
-$("eensta-feed").eensta(
+$("#eensta-feed").eensta(
   username : "your_username",
   client_id: "your_client_id",
   how_many : 5 
@@ -39,3 +39,6 @@ You need to create an [Instagram application](http://instagram.com/developer/#) 
 
 #### linkable
 **Default: true**. Disable linking to your images by setting this to false
+
+## Notes
+Eensta won't load any inline styles or CSS files and will just produce a plain UL with your Instagram images.
